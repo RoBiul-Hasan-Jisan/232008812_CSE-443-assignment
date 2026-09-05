@@ -1,0 +1,3 @@
+age,balance,day,campaign,pdays_clean,previous,job,marital,education,default,housing,loan,contact,month,poutcome,was_previously_contacted,y_true,y_pred
+34,695,16,4,0,0,blue-collar,married,primary,no,yes,yes,unknown,may,unknown,0,1,0
+36,408,20,2,0,0,blue-collar,married,primary,no,yes,yes,unknown,may,unknown,0,1,0
